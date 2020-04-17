@@ -1,4 +1,4 @@
-# laravel7-api-boilerplate
+# laravel7-api-boilerplate backend
 
 # Origin
 Original Source: https://github.com/cretueusebiu/laravel-nuxt
